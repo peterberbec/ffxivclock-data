@@ -5356,10 +5356,10 @@
       "id": "kholusia-8",
       "type": "botany",
       "subType": "unspoiled",
-      "zone": "",
+      "zone": "Kholusia",
       "zoneFr": "",
       "zoneDe": "",
-      "teleport": "unknown",
+      "teleport": "Stilltide",
       "teleportFr": "unknown",
       "teleportDe": "unknown",
       "position": {
@@ -5373,11 +5373,11 @@
     {
       "id": "kholusia-20",
       "type": "botany",
-      "subType": "unspoiled",
-      "zone": "",
+      "subType": "",
+      "zone": "Kholusia",
       "zoneFr": "",
       "zoneDe": "",
-      "teleport": "unknown",
+      "teleport": "Stilltide",
       "teleportFr": "unknown",
       "teleportDe": "unknown",
       "position": {
